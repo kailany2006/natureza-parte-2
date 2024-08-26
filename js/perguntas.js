@@ -1,19 +1,19 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola você se depara com um grupo de jovens maltratando um animal silvestre, qual é a sua reação?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Eu ligaria para a policia ambiental e esperaria ela chegar para puni-los",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
+                    "No início pensou em ignorar a situação, para evitar problemas, porém decidiu fazer a coisa certa.",
                     "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Eu não me envolveria e passaria calado",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
+                    "Por mais que a situação fosse ruim, fazer o bem seria muito arriscado para mim,
                     "Pensou que IA pode ajudar em tarefas da sua vida."
                 ],
                 proxima: 2,
@@ -21,21 +21,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Enquanto assistia televisão, se deparou com inúmeras notícias sobre a atual situação da saúde ecológica do país, que por sinal, não parece estar muito boa, oque você pensa?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Eu deveria fazer a minha parte para tentar mudar essa situação e icentivar os outros a fazer o mesmo.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
+                    "Diminuir a poluição é díficil,  porém você sabe que com pequenos esforços pode melhorar o meio ambiente",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Não há o que eu possa fazer, independente da boa ação, o mundo vai acabar um dia mesmo.,
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
+                    "Você ficou desacreditado de que o mundo possa melhorar.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],
@@ -44,10 +44,10 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Durante a sala de aula, a professora apresenta um projeto voluntário sobre a conscientização o descarte correto do lixo e reciclagem, e convida os alunos a participarem, o que você decide fazer",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "É uma boa ideia, mesmo não valendo nota, eu deveria participar para tornar o mundo um lugar melhor.",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
@@ -56,9 +56,9 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "É uma boa ideia, mesmo não valendo nota, eu deveria participar para tornar o mundo um lugar melhor",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
+                    "Separar o lixo é trabalhoso, entretando você sabe que é o melhor para o meio ambiente",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],

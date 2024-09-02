@@ -49,14 +49,13 @@ export const perguntas = [
             {
                 texto: "É uma boa ideia, mesmo não valendo nota, eu deveria participar para tornar o mundo um lugar melhor.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
-                ],
+                    "Separar o lixo é trabalhoso, entretando você sabe que é o melhor para o meio ambiente"
+            },
+                   
                 proxima: 3,
             },
             {
-                texto: "É uma boa ideia, mesmo não valendo nota, eu deveria participar para tornar o mundo um lugar melhor",
+                texto: "Eu não vou particiar, preciso fazer outras coisas além disso",
                 afirmacao: [
                     "Separar o lixo é trabalhoso, entretando você sabe que é o melhor para o meio ambiente",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
